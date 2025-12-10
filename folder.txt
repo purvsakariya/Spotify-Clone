@@ -1,1 +1,0 @@
-30 mi line ma songs.push(element.href.split("songs")[1]) = songs.push(element.href.split(`/${folder}/`)[1])

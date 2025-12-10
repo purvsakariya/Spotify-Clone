@@ -52,7 +52,7 @@ async function main() {
     <div class="info">
         <div>${song.replace("%5C", " ")}</div>
     </div>
-    <img class="invert" src="play.svg" alt="">
+    <img class="invert" src="svgs/play.svg" alt="">
 </li>`;
     }
 
