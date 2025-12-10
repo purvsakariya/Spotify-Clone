@@ -142,7 +142,7 @@ body {
     bottom: 88px;
     right: 17px;
     opacity: var(--a);
-    transition: all 1s ease-out;
+    transition: all 1s ;
 }
 
 .buttons>* {
